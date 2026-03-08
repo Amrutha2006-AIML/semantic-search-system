@@ -1,9 +1,3 @@
-Below is a **clean, improved README for your repository**. It keeps the **same structure as your friend’s** (so it matches the assignment style) but is **slightly more professional and clearer**.
-
-You can **copy and paste this into your `README.md`**.
-
----
-
 # Trademarkia – AI/ML Engineer Task
 
 # Semantic Search System
@@ -188,4 +182,3 @@ Clears all cached queries and resets statistics.
 D. Amrutha
 AI/ML Engineer Task Submission – Trademarkia
 
----
